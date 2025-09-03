@@ -15,7 +15,5 @@ Hi there! 👋 I'm Muhammad Arham<br><br>🔭 I'm currently working on:<br>- Ful
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=arhamCh24&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=arhamCh24&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
