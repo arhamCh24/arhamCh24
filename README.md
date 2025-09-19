@@ -5,7 +5,7 @@ Hi there! 👋 I'm Muhammad Arham<br><br>🔭 I'm currently working on:<br>- Ful
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-arham-178253267/) 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/m-arham/s/HzeTbYRK1h) 
-[![Stack Overflow](https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/edit/29517715) [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@ArhamChaudhry24) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://arham-portfolio-nextjs.vercel.app/)
+[![Stack Overflow](https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/edit/29517715) [!(https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@ArhamChaudhry24) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://arham-portfolio-nextjs.vercel.app/)
 
 
  
